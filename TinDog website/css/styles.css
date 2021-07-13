@@ -8,7 +8,7 @@ body{
     
 }
 .h1{
-    font-family:"Montserrat-Black",sans-serif;
+    font-family:"Montserrat-Bold",sans-serif;
     font-size: 3.5rem;
     line-height: 1.5;
     font-weight: 900;
@@ -111,6 +111,30 @@ h2
     padding:3% 2%;
     
 }
+#cta{
+    background-color: #ff4c68;
+    color:white;
+    text-align: center;
+    padding: 7% 15%;
+}
+.cta-heading{
+    font-family:"Montserrat-Bold",sans-serif;
+    font-size: 3.5rem;
+    line-height: 1.5;
+    font-weight: 900;
+    text-align: center;
+}
+
+
+#footer{
+    background-color:white;
+    text-align: center;
+    padding:7% 15%;
+}
+.ic{
+margin:10px 20px;
+}
+
 @media (max-width:1028px)
 {
     
